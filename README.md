@@ -1,5 +1,5 @@
 # VHDL projects
-This repository showcases a variety of digital circuit designs, ranging from basic logic circuits to advanced systems. Each project is accompanied by VHDL code, testbenches, schematics, explanatory images, and personal insights, making it an excellent resource for learning and experimentation.
+This repository showcases a variety of digital circuit designs, ranging from basic logic circuits to advanced systems. Each project is accompanied by VHDL code, testbenches, schematics, explanatory images, and personal insights.
 
 Projects Included:
 
