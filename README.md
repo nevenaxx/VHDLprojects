@@ -18,5 +18,6 @@ Projects Included:
 4. Assembler-Based Division Algorithm
 
    This project explores assembler-style programming in VHDL to perform the division of 16-bit and 8-bit binary numbers. The goal was to create a division algorithm for a 16-bit quotient using two 8-bit registers: one for the LSB and one for the MSB. The project focused on modifying the provided ROM file to adapt it for the division task, with a total of 20 commands given in the provided Instruction Set PDF. Other parts of the code remain unchanged, as they are part of the copyright, and thus are not included. My task was solely to modify the ROM file and adapt it to the division task.
-   The goal was to program this using Altera FPGA with Intel Quartus and VHDL, focusing on implementing the division logic efficiently within the given instruction constraints.
+
+The goal was to program this using Altera FPGA with Intel Quartus and VHDL, focusing on implementing the division logic efficiently within the given instruction constraints.
 
